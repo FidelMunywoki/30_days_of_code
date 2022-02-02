@@ -1,0 +1,51 @@
+#Things
+
+eg bank Account number -object
+--
+identity
+Atrributes
+
+Behaviour of the object ---verbs
+object --- nouns
+
+---------------------------------
+
+objects are created using a class,
+
+one class can create different objects,,
+Components of a class --- name, Attributes, Behaviour
+
+Behaviour << Method >> returns a value --- functions in a class,
+
+Class example.
+_______________
+roundCookie
+--------------
+weight
+color
+icing
+--------------
+decorate()
+consume()
+_______________
+
+
+After class , create objects through instantiation
+eg ,
+1.
+
+barronCookie
+16 grams
+red 
+true 
+decorate()
+consume()
+
+2. 
+oliviaCookie
+brown
+false
+
+decorate()
+consume()
+-----------------

@@ -1,0 +1,66 @@
+APIE
+
+Abstraction -- focus on what is important
+
+Encapsulation -- restrictions
+
+eg cookieJar
+------------
+   numCookies ---  visible to this object
+   ----------
+   requestCookie -- this method can modify
+
+   #reduces 
+
+
+Inheritance
+    Inherit a method from superclass/parent/Base  ----- code reuse adv.
+
+    multiple inheritance, from different parent classes.
+
+Polymorphism
+    dynamic polymorphism -- uses the same interface for methods on different types of objects.
+
+    eg,
+    brew(groundCoffee, water)
+
+    -----
+    BasicCoffeMaker
+    -----------
+    Size
+    _______________
+    brew()
+    pour()
+
+    -------------
+    we have a new class
+
+    ________________
+    FrenchPress
+    _______________
+    (Everything in BasicCoffeMaker)
+
+    brew() -----> overriding
+
+
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+Analysis, design, and programming
+
+    1. Gather requirements
+    2. Describe the application
+    3. identify the main objects
+    4. Describe the interactions
+    5. Create a class diagram
+
+-------------------------------------------------------------------
+
+Unified Modeling language (UML)
+
+-- use case diagram
+--class diagram
+
+
+
+
