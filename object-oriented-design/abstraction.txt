@@ -2,7 +2,7 @@ APIE
 
 Abstraction -- focus on what is important
 
-Encapsulation -- restrictions
+Encapsulation -- restrictions [works user doesn't know how .....]
 
 eg cookieJar
 ------------
@@ -19,7 +19,7 @@ Inheritance
     multiple inheritance, from different parent classes.
 
 Polymorphism
-    dynamic polymorphism -- uses the same interface for methods on different types of objects.
+    dynamic polymorphism -- uses the same interface for methods on different types of objects. [method overiding --]
 
     eg,
     brew(groundCoffee, water)
