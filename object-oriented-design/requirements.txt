@@ -1,0 +1,13 @@
+non-requirements
+
+FURPS requirements (Functionality, Usability, Reliability, Performance, Supportability )
+
+Functionality 
+
+-----------------------
+design | Implementation | Interface | physical
+
+-------------
+
+Functional requirements -- The system must ---------
+

@@ -1,0 +1,47 @@
+identifying Model 
+      - conceptulizing Model
+      -
+identifying class relationships
+identifying class responsibilities
+CRC - cards  ----- Class responsibilities Colaboration
+----------------------------------
+
+
+
+Jukebox
+
+Conceptual Model
+
+---------
+identify objects -----> Possible objects --------- System , User, Library, Album, List, Song, Queue, Commander, Ability, Selection, Disco, Moon
+
+                                            --------- remove -- system, Ability,List, Selection,-----
+                                            -------- remain  -- User, Library, Album, Song, Queue, Admin
+
+
+class responsibilities ----> Verb Phrases ----
+                                          ----- Browse library of albums
+                                          ----- Browse songs in album
+                                          ----- select album
+                                          ----- select songs
+                                          ----- Play selected songs
+                                          ----- Add song to Queue
+                                          ----- Play song from Queue
+                                          ----- cancel song in Queue
+                                          ----- Identify user
+
+
+        CRC cards
+
+        ADMIN                    USER     ---- browses --  Library
+
+
+
+
+
+
+
+
+
+
+        Queue                    SONG                         ALBUM

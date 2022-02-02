@@ -1,0 +1,34 @@
+Use case :
+          
+          Title: Heat Meal
+          Primary Actor: Astronaut
+
+
+          Success Scenario: Astronsut inserts meal package. System identifies type of meal. System heats package
+          for length of time required for meal type. System notifies astronaut that meal is ready via space pager.
+          Astronaut removes package from system.
+
+          Extension
+
+          ----
+
+          Preconditions
+
+          <<<<>>>>>>>>>
+          Identifying the actors
+              ---people
+              ---other systems
+
+          Identifying the scenarios
+               --- cook meal
+               --- order meal
+
+          Diagramming use classes
+               ---
+
+user stories:
+          --simple
+          -- what to do and why
+          --short
+
+          AS a (type of user)  I want (goal) so that (reason) 
